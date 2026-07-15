@@ -49,6 +49,6 @@ int main(){
         }
     cout << count << "    ";
     }
-    cout << "majority element is: " << ans << endl;
+    cout << "\n" << "majority element is: " << ans << endl;
     return 0;
 }
